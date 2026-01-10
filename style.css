@@ -78,7 +78,7 @@ nav ul {
             rgba(0, 0, 0, 0.13),
             rgba(0, 0, 0, 0.6)
         ),
-        url(../images/banner-bg.png);
+        url(banner-bg.png);
     background-size: cover;
     background-position: center;
     color: #ffffff;
